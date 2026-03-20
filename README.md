@@ -73,6 +73,19 @@ Hybrid Protection Model
         
         Payout is then determined using a severity-based factor.
 
+        2. Reward-Based System (Minor Disruptions)
+        This component addresses frequent but lower-impact conditions such as traffic congestion and high temperature.
+
+                1.Detects disruptions using parameters like traffic delay and temperature.
+
+                2.Provides coin-based rewards instead of direct payouts.
+
+                3.Rewards are proportional to disruption intensity.
+
+                4.Coins can be accumulated and redeemed as monetary value or used for premium benefits.
+
+        This approach ensures that smaller disruptions are acknowledged without affecting system sustainability.
+
 ---
 
 ## System Workflow
