@@ -23,7 +23,8 @@ The system is designed for a food delivery partner who:
         
 Core Problem
 
-        1.Delivery partners currently bear the full financial impact of these disruptions. Existing systems:
+        1.Delivery partners currently bear the full financial impact of these disruptions.
+        Existing systems:
 
         2.Do not compensate for real-time income loss
 
