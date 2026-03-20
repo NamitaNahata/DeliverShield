@@ -64,7 +64,7 @@ Hybrid Protection Model
         
                 2.Automatically detects disruption severity.
         
-                3.Triggers payouts without requiring manual claims
+                3.Triggers payouts without requiring manual claims.
         
                 4.Compensation is based on actual income loss
         
