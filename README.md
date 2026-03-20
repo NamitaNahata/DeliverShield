@@ -1,4 +1,4 @@
-# Gig Insure
+# GigInsure
 ## AI-Powered Parametric Insurance for Food Delivery Partners
 
 ---
