@@ -289,16 +289,16 @@ For the initial development and demonstration, a web platform was chosen because
 
 ## Tech Stack
 
-Frontend
+        1.Frontend
                 React.js
-Backend
+        2.Backend
                 Python (Flask)
-Database
+        3.Database
                 Firebase
-APIs & External Integrations
-                1.Weather APIs (for rainfall, wind, and temperature data)
-                2.Maps / Traffic APIs (for congestion and travel time analysis)
-Payment Integration
+        4.APIs & External Integrations
+                *Weather APIs (for rainfall, wind, and temperature data)
+                *Maps / Traffic APIs (for congestion and travel time analysis)
+        5.Payment Integration
                 Razorpay / UPI Integration (Sandbox)
 
 ---
