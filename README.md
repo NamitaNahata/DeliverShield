@@ -309,61 +309,61 @@ The system will be developed in phases:
 
 Phase 1: Ideation & Foundation
 
-        Define the problem statement and target persona
+        1.Define the problem statement and target persona
         
-        Design system workflow and architecture
+        2.Design system workflow and architecture
         
-        Identify key components:
+        3.Identify key components:
         
-                Disruption model
+                *Disruption model
         
-                Income and payout logic
+                *Income and payout logic
         
-                Weekly premium model
+                *Weekly premium model
         
-        Build a simulation-based prototype to validate core concepts 
+        4.Build a simulation-based prototype to validate core concepts 
 
 Phase 2: Core Implementation
 
-        Develop frontend using React for interactive user experience
+        1.Develop frontend using React for interactive user experience
         
-        Build backend services using Python for:
+        2.Build backend services using Python for:
         
-                Disruption detection
+                *Disruption detection
         
-                Payout processing
+                *Payout processing
         
-                Reward system logic
+                *Reward system logic
         
-        Integrate APIs for weather, traffic, and temperature data
+        3.Integrate APIs for weather, traffic, and temperature data
         
-        Implement:
+        4.Implement:
         
-                User onboarding
+                *User onboarding
         
-                Policy management
+                *Policy management
         
-                Automated claim triggering
+                *Automated claim triggering
         
-                Set up database (Firebase) for real-time data handling
+                *Set up database (Firebase) for real-time data handling
 
 Phase 3: Optimization & Scaling
 
-        Enhance fraud detection mechanisms 
+        1.Enhance fraud detection mechanisms 
         
-        Implement real-time payment integration (Razorpay / UPI)
+        2.Implement real-time payment integration (Razorpay / UPI)
         
-        Improve AI components:
+        3.Improve AI components:
         
-                Better earnings prediction
+                *Better earnings prediction
         
-                Dynamic premium adjustment
+                *Dynamic premium adjustment
         
-        Develop advanced dashboards for:
+        4.Develop advanced dashboards for:
         
-                Riders (earnings, payouts, rewards)
+                *Riders (earnings, payouts, rewards)
         
-                Admin (risk analytics, system monitoring)
+                *Admin (risk analytics, system monitoring)
         
         
 ---
