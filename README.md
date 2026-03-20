@@ -370,20 +370,52 @@ Phase 3: Optimization & Scaling
 
 ## Financial Sustainability & Risk Management
 
-To ensure stability even during high disruption periods:
+Controlled Payout Mechanism
 
-- Payouts are limited to major disruptions  
-- Minor disruptions use reward-based compensation  
-- Severity thresholds control payout frequency  
-- Weekly premium distributes risk across users  
+        1.Payouts are triggered only during major disruptions.
+        
+        2.Minor disruptions do not result in direct payouts.
+        
+        3.Compensation is calculated based on actual income loss, not fixed amounts.
 
-This keeps the system sustainable while still supporting riders.
+Separation of Insurance and Rewards
+
+        1.High-cost payouts are limited to critical scenarios.
+
+        2.Frequent low-impact disruptions are handled efficiently through rewards.
+
+Severity Thresholds
+
+        1.Clearly defined thresholds ensure payouts are triggered only when conditions are significant.
+
+        2.Prevents false or frequent claims during minor disturbances.
+
+Risk-Based Pricing
+
+        1.Weekly premium is determined based on location risk level.
+
+        2.High-risk areas contribute slightly higher premiums.
+
+Fraud Prevention Measures
+
+        1.Device-based verification to prevent duplicate claims.
+        
+        2.Location validation to ensure disruption relevance.
+        
+        3.Automated claim triggering to eliminate manual manipulation.
+
+Risk Pooling
+
+        1.Weekly subscription model creates a shared risk pool.
+
+        2.Premiums collected from multiple users help cover payouts during disruption events.
 
 ---
 
 ## Future Scope
 
-- Improve expected earnings prediction  
+- Improve expected earnings prediction
+- Mobile version support
 - Introduce dynamic premium pricing  
 - Enhance fraud detection  
 - Expand multilingual support  
