@@ -274,21 +274,32 @@ Key Areas of AI Integration
 
 ## Platform Choice
 
-The system is designed as a mobile-first platform.
+The system is currently implemented as a web-based application for the prototype phase.
+For the initial development and demonstration, a web platform was chosen because it allows:
 
-Delivery partners primarily use smartphones during work, so a mobile-based solution ensures accessibility and real-time interaction.
-
-The platform also supports multiple languages, allowing riders to easily understand the system.
+        1.Faster development and iteration
+        
+        2.Easy testing of core features
+        
+        3.Simple demonstration of end-to-end workflow
+        
+        4.Accessibility across devices without installation
 
 ---
 
 ## Tech Stack
 
-Frontend: React or Flutter  
-Backend: Node.js or Python  
-Database: Firebase or MongoDB  
-APIs: Weather API, Maps API  
-Payments: Razorpay test mode or UPI simulation  
+Frontend
+        React.js
+Backend
+        Python (Flask)
+Database
+        Firebase
+APIs & External Integrations
+        1.Weather APIs (for rainfall, wind, and temperature data)
+        2.Maps / Traffic APIs (for congestion and travel time analysis)
+Payment Integration
+        Razorpay / UPI Integration (Sandbox)
 
 ---
 
